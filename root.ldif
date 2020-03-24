@@ -1,0 +1,13 @@
+#dn: cn=otrsagent,ou=Groups,dc=nodomain
+
+#objectClass: posixGroup
+#objectClass: top
+#cn: otrsagent
+#gidNumber: 5003
+
+dn: uid=root,ou=People,dc=nodomain
+changetype: modify
+replace: ou
+ou: People
+
+

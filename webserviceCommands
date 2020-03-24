@@ -1,0 +1,30 @@
+
+ticket create command
+
+curl "http://localhost/otrs/nph-genericinterface.pl/Webservice/GenericTicketConnectorREST/Ticket?UserLogin=Administrator&Password=root" -H "Content-Type:application/json" -d "{\"Ticket\":{\"Title\":\"REST Create Test\", \"Type\": \"Unclassified\", \"Queue\":\"Raw\",\"State\":\"open\",\"Priority\":\"3 normal\",\"CustomerUser\":\"ap\"},\"Article\":{\"Subject\":\"Rest Create Test\",\"Body\":\"This is only a test\",\"ContentType\":\"text/plain; charset=utf8\"}}" -X POST
+
+
+info
+
+curl "http://localhost/otrs/nph-genericinterface.pl/Webservice/GenericTicketConnectorREST/
+Ticket/697?UserLogin=Administrator&Password=root"
+
+
+
+update ticket
+
+curl "http://localhost/otrs/nph-genericinterface.pl/Webservice/GenericTicketConnectorREST/
+Ticket/697?UserLogin=Administrator&Password=root" -H "Content-Type: application/json" -d "{\"Ticket
+\":{\"Queues\":\"L1Support\"}}" -X PATCH
+
+
+search ticket
+
+curl "http://localhost/otrs/nph-genericinterface.pl/Webservice/GenericTicketConnectorREST/
+Ticket?UserLogin=Administrator&Password=root&Queue=Raw"
+
+get ticket history
+
+curl "http://localhost/otrs/nph-genericinterface.pl/Webservice/GenericTicketConnectorREST/
+TicketHistory/697?UserLogin=Administrator&Password=root"
+                     

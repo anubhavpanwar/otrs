@@ -1,0 +1,780 @@
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:12:12 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3040): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:13:12 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3083): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:14:12 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3097): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:15:13 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3163): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:16:13 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3189): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:17:13 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3205): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:18:14 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3215): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:19:14 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3228): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:20:15 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3263): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:21:15 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3285): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:22:15 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3299): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:23:15 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3311): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:24:16 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3328): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:25:16 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3350): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:26:16 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3364): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:27:17 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3377): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:28:17 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3391): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:29:17 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3427): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:30:18 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3465): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:31:19 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3528): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:32:19 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3565): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:33:19 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3595): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:34:20 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3637): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:35:20 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3659): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:36:00 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3676): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:37:00 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3713): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:38:01 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3728): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:39:01 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3740): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:40:01 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3774): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:41:02 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3792): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:42:02 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3807): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:43:02 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3821): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:44:03 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3837): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:45:03 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3868): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:46:03 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3896): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:47:03 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3920): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:48:04 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3939): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:49:04 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3953): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:50:04 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (3989): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:51:05 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (4013): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:52:05 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (4022): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:53:05 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (4031): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:54:05 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (4043): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:55:05 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (4065): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:56:06 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (4095): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:57:06 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (4104): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:58:06 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (4114): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 12:59:06 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (4133): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 13:00:07 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (4167): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 13:01:07 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (4208): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 13:02:07 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (4229): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 13:03:08 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (4241): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 13:04:08 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (4257): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 13:05:08 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (4287): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 13:06:08 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (4301): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 13:07:09 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (4312): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 13:08:09 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (4321): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 13:09:09 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (4339): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 13:10:09 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (4388): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+
+ERROR: OTRS-otrs.Console.pl-Maint::Email::MailQueue-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 13:11:10 2020
+
+ Message: There was an error executing Execute() in Kernel::System::Console::Command::Maint::Email::MailQueue: Error: Message sending already in progress! Skipping...
+
+
+ Traceback (4420): 
+   Module: Kernel::System::Daemon::DaemonModules::BaseTaskWorker::_HandleError Line: 52
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Cron::Run Line: 177
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::Run Line: 235
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+

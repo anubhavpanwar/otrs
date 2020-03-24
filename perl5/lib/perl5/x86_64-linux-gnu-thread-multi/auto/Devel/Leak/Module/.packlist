@@ -1,0 +1,4 @@
+/opt/otrs/perl5/bin/perlbloat
+/opt/otrs/perl5/lib/perl5/Devel/Leak/Module.pm
+/opt/otrs/perl5/man/man1/perlbloat.1p
+/opt/otrs/perl5/man/man3/Devel::Leak::Module.3pm

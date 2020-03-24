@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<otrs_config version="1.0" init="Changes">
+	<ConfigItem Name="AgentLogoCustom###custom" Required="0" Valid="0">
+        <Description Translatable="1">The logo shown in the header of the agent interface for the skin "lidotours".</Description>
+        <Group>Framework</Group>
+        <SubGroup>Frontend::Agent</SubGroup>
+        <Setting>
+            <Hash>
+                <Item Key="URL">skins/Agent/custom/img/logo.png</Item>
+                <Item Key="StyleTop">21px</Item>
+                <Item Key="StyleRight">29px</Item>
+                <Item Key="StyleHeight">55px</Item>Valid:
+valid
+Comment:
+
+                <Item Key="StyleWidth">230px</Item>
+            </Hash>
+        </Setting>
+    </ConfigItem>
+    <ConfigItem Name="Loader::Agent::Skin###100-custom" Required="0" Valid="1">
+        <Description Translatable="1">Lido Tours skin for the agent interface.</Description>
+        <Group>Framework</Group>
+        <SubGroup>Frontend::Base::Loader</SubGroup>
+        <Setting>
+            <Hash>
+                <Item Key="InternalName">custom</Item>
+                <Item Key="VisibleName" Translatable="1">Custom</Item>
+                <Item Key="Description" Translatable="1">Custom skin.</Item>
+                <Item Key="HomePage">localhost/otrs</Item>
+            </Hash>
+        </Setting>
+    </ConfigItem>
+</otrs_config>

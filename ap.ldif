@@ -1,0 +1,19 @@
+dn: uid=ap,ou=People,dc=nodomain
+objectClass: top
+objectClass: account
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: ap ap
+uid: ap
+sn:ap
+givenname:ap
+mail:anubhavpanwar24@gmail.com
+uidNumber: 16859
+gidNumber: 100
+homeDirectory: /home/ss
+loginShell: /bin/bash
+gecos: ap
+userPassword: root
+shadowLastChange: 0
+shadowMax: 0
+shadowWarning: 0

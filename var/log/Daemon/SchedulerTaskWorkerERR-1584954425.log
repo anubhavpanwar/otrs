@@ -1,0 +1,16 @@
+[Mon Mar 23 14:36:55 2020] otrs.Daemon.pl: DBI connect('dbname=otrs;host=127.0.0.1','otrs',...) failed: could not connect to server: Connection refused
+[Mon Mar 23 14:36:55 2020] otrs.Daemon.pl: 	Is the server running on host "127.0.0.1" and accepting
+[Mon Mar 23 14:36:55 2020] otrs.Daemon.pl: 	TCP/IP connections on port 5432? at /opt/otrs/Kernel/System/DB.pm line 208.
+ERROR: OTRS-otrs.Daemon.pl - Daemon Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 09:06:55 2020
+
+ Message: could not connect to server: Connection refused
+	Is the server running on host "127.0.0.1" and accepting
+	TCP/IP connections on port 5432?
+
+ Traceback (25754): 
+   Module: Kernel::System::DB::Ping Line: 1781
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerTaskWorker::PreRun Line: 122
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+

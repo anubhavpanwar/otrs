@@ -1,0 +1,16 @@
+/opt/otrs/perl5/lib/perl5/Nexmo/SMS.pm
+/opt/otrs/perl5/lib/perl5/Nexmo/SMS/BinaryMessage.pm
+/opt/otrs/perl5/lib/perl5/Nexmo/SMS/GetBalance.pm
+/opt/otrs/perl5/lib/perl5/Nexmo/SMS/MockLWP.pm
+/opt/otrs/perl5/lib/perl5/Nexmo/SMS/Response.pm
+/opt/otrs/perl5/lib/perl5/Nexmo/SMS/Response/Message.pm
+/opt/otrs/perl5/lib/perl5/Nexmo/SMS/TextMessage.pm
+/opt/otrs/perl5/lib/perl5/Nexmo/SMS/WAPPushMessage.pm
+/opt/otrs/perl5/man/man3/Nexmo::SMS.3pm
+/opt/otrs/perl5/man/man3/Nexmo::SMS::BinaryMessage.3pm
+/opt/otrs/perl5/man/man3/Nexmo::SMS::GetBalance.3pm
+/opt/otrs/perl5/man/man3/Nexmo::SMS::MockLWP.3pm
+/opt/otrs/perl5/man/man3/Nexmo::SMS::Response.3pm
+/opt/otrs/perl5/man/man3/Nexmo::SMS::Response::Message.3pm
+/opt/otrs/perl5/man/man3/Nexmo::SMS::TextMessage.3pm
+/opt/otrs/perl5/man/man3/Nexmo::SMS::WAPPushMessage.3pm

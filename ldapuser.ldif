@@ -1,0 +1,22 @@
+
+
+
+dn: uid=ldapuser,ou=People,dc=nodomain
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: ldapuser
+sn: ldapuser
+#UserLogin:ldapuser
+mail: ldapuser@gmail.com
+#CustomerID:ldapuser
+givenName: ldapuser1
+cn: ldapuser
+displayName: ldapuser
+uidNumber: 10002
+gidNumber: 502
+userPassword: root
+#gecos:ldapuser
+loginShell: /bin/bash
+homeDirectory: /home/ss
+

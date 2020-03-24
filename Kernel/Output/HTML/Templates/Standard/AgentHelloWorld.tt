@@ -1,0 +1,4 @@
+<h1>[% Translate("Overview") | html %]: [% Translate("HelloWorld") %]</h1>
+<p>
+    [% Data.HelloWorldText | Translate() | html %]
+</p>

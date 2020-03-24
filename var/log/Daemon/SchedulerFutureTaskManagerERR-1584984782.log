@@ -1,0 +1,21 @@
+[Mon Mar 23 23:02:59 2020] otrs.Daemon.pl: DBD::Pg::db do failed: FATAL:  terminating connection due to administrator command
+[Mon Mar 23 23:02:59 2020] otrs.Daemon.pl: server closed the connection unexpectedly
+[Mon Mar 23 23:02:59 2020] otrs.Daemon.pl: 	This probably means the server terminated abnormally
+[Mon Mar 23 23:02:59 2020] otrs.Daemon.pl: 	before or while processing the request. at /opt/otrs/Kernel/System/DB.pm line 469.
+ERROR: OTRS-otrs.Daemon.pl - Daemon Kernel::System::Daemon::DaemonModules::SchedulerFutureTaskManager-67 Perl: 5.26.1 OS: linux Time: Mon Mar 23 17:32:59 2020
+
+ Message: FATAL:  terminating connection due to administrator command
+server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request., SQL: '
+            UPDATE scheduler_future_task
+            SET lock_key = ?, lock_time = '2020-03-23 17:32:59'
+            WHERE lock_key = 0 AND execution_time <= ?'
+
+ Traceback (7095): 
+   Module: Kernel::System::Daemon::SchedulerDB::FutureTaskToExecute Line: 1248
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerFutureTaskManager::Run Line: 104
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+

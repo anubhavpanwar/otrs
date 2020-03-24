@@ -1,0 +1,5 @@
+dn: uid=ldapuser,ou=People,dc=nodomain
+changetype: add
+add: authPassword
+authPassowrd: root
+

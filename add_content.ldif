@@ -1,0 +1,37 @@
+dn: ou=People,dc=nodomain
+objectClass: organizationalUnit
+ou: People
+
+dn: ou=Groups,dc=nodomain
+objectClass: organizationalUnit
+ou: Groups
+
+dn: cn=admin,ou=Groups,dc=nodomain
+objectClass: posixGroup
+cn: miners
+gidNumber: 5000
+
+dn: cn=admin,ou=Groups,dc=nodomain
+objectClass: posixGroup
+cn: otrsagent
+gidNumber: 5001
+
+
+dn: uid=ss,ou=People,dc=nodomain
+objectClass: inetOrgPerson
+objectClass: posixAccount
+objectClass: shadowAccount
+uid: ss
+sn: ss
+mail: suhailssaniya003@gmail.com
+CustomerID: ss
+givenName: ss
+cn: ss
+displayName: ss ss
+uidNumber: 10000
+gidNumber: 5000
+userPassword: root
+gecos: ss ss
+loginShell: /bin/bash
+homeDirectory: /home/ss
+

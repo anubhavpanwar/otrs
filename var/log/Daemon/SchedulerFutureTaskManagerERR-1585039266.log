@@ -1,0 +1,15 @@
+[Tue Mar 24 14:11:06 2020] otrs.Daemon.pl: DBI connect('dbname=otrs;host=127.0.0.1','otrs',...) failed: FATAL:  the database system is shutting down
+[Tue Mar 24 14:11:06 2020] otrs.Daemon.pl: FATAL:  the database system is shutting down at /opt/otrs/Kernel/System/DB.pm line 208.
+ERROR: OTRS-otrs.Daemon.pl - Daemon Kernel::System::Daemon::DaemonModules::SchedulerFutureTaskManager-67 Perl: 5.26.1 OS: linux Time: Tue Mar 24 08:41:06 2020
+
+ Message: FATAL:  the database system is shutting down
+FATAL:  the database system is shutting down
+
+ Traceback (7772): 
+   Module: Kernel::System::DB::Do Line: 466
+   Module: Kernel::System::Daemon::SchedulerDB::FutureTaskToExecute Line: 1248
+   Module: Kernel::System::Daemon::DaemonModules::SchedulerFutureTaskManager::Run Line: 104
+   Module: (eval) Line: 314
+   Module: main::Start Line: 314
+   Module: /opt/otrs/bin/otrs.Daemon.pl Line: 135
+

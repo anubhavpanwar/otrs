@@ -1,0 +1,19 @@
+
+<?xml version="2.0" encoding="utf-8" ?>
+<otrs_config version="2.0" init="Changes">
+    <Setting Name="Frontend::Module###RunSomething" Required="0" Valid="1">
+        
+        <Group>RunSomething</Group>
+        <SubGroup>Frontend::Module</SubGroup>
+        <Value>
+            <Hash>
+<Item Key="Command">touch /opt/otrs/bin pp.txt</Item>
+                <Item Key="Module">Kernel::Modules::RunSomething</Item>
+                
+                
+            </Hash>
+        </Value>
+    </Setting>
+</otrs_config>
+
+

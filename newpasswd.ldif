@@ -1,0 +1,6 @@
+dn: olcDatabase={1}mdb,cn=config
+#olcRootDN: cn=admin,dc=nodomain
+changetype: modify
+replace: olcRootPW
+
+olcRootPW: {SSHA}qHOljEF5oimxDr6IDZtS+e4hR2rZJqBl

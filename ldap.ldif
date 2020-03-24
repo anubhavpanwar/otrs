@@ -1,0 +1,9 @@
+
+
+
+dn: uid=ldapuser,ou=People,dc=nodomain
+changetype: modify
+add: mail
+mail: ldapuser@example.com
+
+

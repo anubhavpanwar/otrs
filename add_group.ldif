@@ -1,0 +1,7 @@
+dn: cn=otrsagent,ou=Groups,dc=nodomain
+changetype: modify
+add: memberUid
+memberUid: cn=root,ou=Groups,dc=nodomain
+
+
+

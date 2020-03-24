@@ -1,0 +1,43 @@
+$VAR1 = {
+          'Ticket' => [
+                        {
+                          'Queue' => 'Raw',
+                          'EscalationSolutionTime' => 0,
+                          'GroupID' => 1,
+                          'EscalationTime' => 0,
+                          'TimeUnit' => 0,
+                          'CreateBy' => 20,
+                          'QueueID' => 2,
+                          'LockID' => 1,
+                          'RealTillTimeNotUsed' => 0,
+                          'Owner' => 'Administrator',
+                          'TypeID' => 1,
+                          'ChangeBy' => 20,
+                          'EscalationResponseTime' => 0,
+                          'Lock' => 'unlock',
+                          'ArchiveFlag' => 'n',
+                          'CustomerID' => 'anubhavpanwar24@gmail.com',
+                          'Changed' => '2020-03-17 10:08:32',
+                          'TicketID' => 699,
+                          'TicketNumber' => '2020031767000041',
+                          'ServiceID' => '',
+                          'OwnerID' => 20,
+                          'StateType' => 'open',
+                          'Priority' => '3 normal',
+                          'CustomerUserID' => 'ap',
+                          'UntilTime' => 0,
+                          'PriorityID' => 3,
+                          'ResponsibleID' => 20,
+                          'StateID' => 4,
+                          'EscalationUpdateTime' => 0,
+                          'Responsible' => 'Administrator',
+                          'Title' => 'REST Create Test',
+                          'State' => 'open',
+                          'Type' => 'Unclassified',
+                          'Created' => '2020-03-17 10:08:30',
+                          'SLAID' => '',
+                          'UnlockTimeout' => 1584439711,
+                          'Age' => 7
+                        }
+                      ]
+        };

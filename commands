@@ -1,0 +1,30 @@
+change owner -
+sudo chown -R otrs:otrs 2020-03-11_09-55/
+
+
+
+
+
+
+send files-
+sudo scp DatabaseBackup.sql.gz tcs@192.168.43.47:/home/tcs
+
+
+
+
+start server-
+ sudo /etc/init.d/apache2 start
+
+
+stop server-
+sudo /etc/init.d/apache2 stop
+
+
+
+
+email configration setup link- https://blog.edmdesigner.com/send-email-from-linux-command-line/
+ 
+
+
+backup command - outside opt otrs
+
